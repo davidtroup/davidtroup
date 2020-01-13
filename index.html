@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>David Troup</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/heroic-features.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Noto+Sans|Open+Sans" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+        <div class="container">
+            <a class="navbar-brand" href="index.html">
+                <img src="img/logo.svg" style="width:160px;"/>
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="#">Home
+                <span class="sr-only">(current)</span>
+              </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="about.html">About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="policies.html">My Policies &amp; Pricing</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="faq.html">FAQs</a>
+                    </li>
+                </ul>
+                <form class="form-inline my-2 my-lg-0">
+                    <a href="#contactModal" data-target="#contactModal" data-toggle="modal" class="btn btn-primary my-2 my-sm-0" style=" margin:5px;">Book a Lesson</a>
+                </form>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Page Content -->
+    <div class="cheight" style="background: url(img/banner.png) no-repeat center fixed; background-size: cover; color: white;">
+        <br/><br/>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 banner-text">
+                    <h1>Become a Fearless Singer</h1>
+                    <p>Learn to sing with confidence, power, beauty and artistry as you pursue your dream from the karaoke bar to Broadway.</p>
+                    <p>As an experienced and certified vocal teacher, I pride myself in tailoring my lessons to what my students want to learn while giving them the confidence to succeed fearlessly!</p>
+                    <a href="#students" target="_top" class="btn btn-primary" style="margin:5px;">Read My Student's Testimonials</a>
+                </div>
+            </div>
+        </div>
+        <br/><br/>
+        <a name="students"></a>
+    </div>
+    <br/><br/><br/>
+    <div class="student-container">
+
+        <!-- Page Features -->
+        
+        <div class="container">
+            <div class="col-xl-7">
+            <h2>My Student Testimonials</h2>
+        <p>Throughout my many years of performing and teaching, I’ve enjoyed some fantastic journeys!  So many of my students, past and present, have a special place in my heart.  The memories of their voices, their personalities, their love of music coupled with a striving to improve their musical abilities have kept them in my thoughts. Here are a few of them-</p>
+                </div>
+        </div>
+        <br/>
+        <div class="row">
+            <div class="col-xl-3 col-md-6 mb-4">
+                <div class="card">
+                    <img class="card-img-top" src="img/students/kathleen.jpg" alt="">
+                    <div class="card-body">
+                        <h4 class="card-title">Kathleen</h4>
+                        <p class="card-text">In my first lesson with David Troup, I began making the sounds that I had only dreamed about.  I floated out of his studio that day as if I was walking on a cloud! David knows how to adapt his voice to many singing styles... <a href="#kathModal" data-target="#kathModal" data-toggle="modal">continue reading</a></p>
+                    </div>
+                    <div class="card-footer">
+                        "LOVE YOU MADLY" performed by Kate Keeler<br/><br/>
+                        <audio controls>
+                            <source src="music/LOVE_YOU_MADLY.mp3" style="width:100%;" type="audio/mpeg">
+                                Your browser does not support the audio element.
+                        </audio>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-xl-3 col-md-6 mb-4">
+                <div class="card">
+                    <img class="card-img-top" src="img/students/denise.jpg" alt="">
+                    <div class="card-body">
+                        <h4 class="card-title">Denise</h4>
+                        <p class="card-text"> No other singing teacher has helped me to identify so concretely the difficulties in my singing and to develop techniques that bring about a more confident and uniform sound... <a href="#deniseModal" data-target="#deniseModal" data-toggle="modal">continue reading</a></p>
+                    </div>
+                    <div class="card-footer">
+                        "IT'S DE-LOVELY" performed by Denise Guthrie<br/><br/>
+                        <audio controls>
+                            <source src="music/IT'S_DELOVELY.mp3" style="width:100%;" type="audio/mpeg">
+                                Your browser does not support the audio element.
+                        </audio>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-xl-3 col-md-6 mb-4">
+                <div class="card">
+                    <img class="card-img-top" src="img/students/sam.jpg" alt="">
+                    <div class="card-body">
+                        <h4 class="card-title">Samuel</h4>
+                        <p class="card-text">It seems like such a long time since we last talked, but time cannot dampen my wonderful memories of singing with you.  Since we said our goodbyes as I headed off to my freshman college year, I am delighted to tell you that I’m now a member of the Harvard Glee Club. I so love making music with the Glee Club…. oh how I wish you could hear us!... <a href="#samModal" data-target="#samModal" data-toggle="modal">continue reading</a> </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-3 col-md-6 mb-4">
+                <div class="card">
+                    <img class="card-img-top" src="img/students/alva.jpg" alt="">
+                    <div class="card-body">
+                        <h4 class="card-title">Alva</h4>
+                        <p class="card-text">David's musical talent, knowledge, experience, and teaching skills have boosted my singing voice to a level I never believed I could attain.  And his engaging personality coupled with his amazing sense of humor make every lesson a fun experience. I am fortunate to have him as my singing teacher and my dear friend.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-xl-3 col-md-6 mb-4">
+                <div class="card">
+                    <img class="card-img-top" src="img/students/josh.jpg" alt="">
+                    <div class="card-body">
+                        <h4 class="card-title">Josh</h4>
+                        <p class="card-text">I always wanted to learn how to sing, but never knew where to start. David's lessons became the perfect launching pad, but also the one hour of my week I looked forward to the most! Beyond being a fantastic vocal teacher, David has become an incredible friend and mentor in life. I'm deeply grateful for his passion, enthusiasm, and positivity each week.</p>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="col-xl-3 col-md-6 mb-4">
+                <div class="card">
+                    <img class="card-img-top" src="img/students/helen.jpg" alt="">
+                    <div class="card-body">
+                        <h4 class="card-title">Helen</h4>
+                        <p class="card-text">My voice lessons have let me access an area of my brain that, ordinarily, I seldom visit. In addition, the lessons have given me the expansive experience of doing something outside of my comfort zone in mid-life. I can’t imagine a better teacher than David Troup for this. He brings knowledge of music theory and Bel Canto technique, a wealth of professional entertaining experience and a wonderful sense of humor and play to his work. I recommend him highly.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-xl-3 col-md-6 mb-4">
+                <div class="card">
+                    <img class="card-img-top" src="img/students/iris.jpg" alt="">
+                    <div class="card-body">
+                        <h4 class="card-title">Iris</h4>
+                        <p class="card-text">David has been incredibly supportive of me throughout the years we have been together, and he has always made sure that I am comfortable.  Along the way, I realized that I had gained much more than a teacher --- I also gained a good friend.  He has made singing and the process of learning enjoyable through his incredible knowledge on the subject, his great sense of humor, and his kindness... <a href="#irisModal" data-target="#irisModal" data-toggle="modal">continue reading</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-3 col-md-6 mb-4">
+                <div class="card">
+                    <img class="card-img-top" src="img/students/bara.png" alt="">
+                    <div class="card-body">
+                        <h4 class="card-title">Bara</h4>
+                        <p class="card-text">Having David as my voice teacher has been a wonderfully positive experience. Not only did I gain much better understanding of singing techniques, but the lessons were fun and enthusiastic. Not once would David be negative in any way. He was always encouraging and he demonstrated a genuine belief in my abilities. This resulted in a huge growth in my level of confidence. I felt like a star, as if anything was possible.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-3 col-md-6 mb-4">
+                <div class="card">
+                    <img class="card-img-top" src="img/students/rachel-f.jpg" alt="">
+                    <div class="card-body">
+                        <h4 class="card-title">Rachel H.</h4>
+                        <p class="card-text">I had been a good amateur singer my whole life, but my training with David took me to a whole other level!  I became a real singer, able to conquer and perform challenging pieces with style and grace, while at the same time acquiring the confidence so necessary to sing in a public performance.</p><p>I highly recommend David Troup as a singing teacher and coach…  He will bring out the best in you!</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-3 col-md-6 mb-4">
+                <div class="card">
+                    <img class="card-img-top" src="img/students/rachel-s.jpg" alt="">
+                    <div class="card-body">
+                        <h4 class="card-title">Rachel S.</h4>
+                        <p class="card-text">I am sending this note to you to express thanks for all you do for Rachel! Thank you for not only the great voice and music instruction you impart, but also the greater wisdom you inject over the course of your lessons, particularly with Rachel's auditions and college plans on the horizon.  I know all this probably comes quite naturally for you, due to your fine character, but Christine  and  I  both  are  very  grateful.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- /.row -->
+
+    </div>
+    <!-- /.container -->
+    <br/><br/><br/>
+
+
+    <!-- Footer -->
+    <footer class="py-5 bg-dark">
+        <div class="container">
+            <div class="row text-white">
+                <div class="col-xl-3 col-md-6 mb-4">
+                    <h4>Address</h4>
+                    <p>3807 Olentangy Boulevard<br/>Columbus, Ohio 43214<br/>
+                        <a href="https://goo.gl/maps/k6PFapN9eNtsBfyR6">Open in Google Maps</a></p>
+                </div>
+                <div class="col-xl-3 col-md-6 mb-4">
+                    <h4>Contact Me</h4>
+                    <p>Call or text<br/><b><a href="tel:+1-703-981-2648">(703) 981-2468</a></b></p>
+                    <p>Email<br/><b><a href="mailto:DavidTroup@cox.net">DavidTroup@cox.net</a></b></p>
+                </div>
+                <div class="col-lg-5 col-md-6 mb-4">
+                    <h4>My Experience</h4>
+                    <p>With over 20 years as a vocal instructor, and 28 years as an entertainer- you can believe in my pedigree!<br/>
+                        <a href="img/david.jpg">View NATs Certification</a></p>
+                </div>
+            </div>
+        </div>
+        <!-- /.container -->
+    </footer>
+
+    <!-- Modal -->
+    <div class="modal fade" id="contactModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h2 class="modal-title" id="exampleModalLongTitle">Book a Lesson</h2>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+                </div>
+                <div class="modal-body">
+                    <p>If you're ready to book your first lesson or want to learn more about Fearless Singing, please email or give me a call!</p>
+                    <p><b>I usually find an impromptu phone call easier to get your first lesson booked</b>, but I will still respond to e-mails as well within a day. I look forward to meeting you!</p>
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <p><b>Phone</b><br/><a href="tel:+1-703-981-2648">(703) 981-2468</a></p>
+                            <p><b>Email</b><br/><a href="mailto:DavidTroup@cox.net">DavidTroup@cox.net</a></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="modal fade" id="deniseModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h2 class="modal-title" id="exampleModalLongTitle">Denise's Testimonial</h2>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+                </div>
+                <div class="modal-body">
+                    <p>No other singing teacher has helped me to identify so concretely the difficulties in my singing and to develop techniques that bring about a more confident and uniform sound.  I have gained effective us of my entire range from David’s teaching, and can now tailor my sound to fit the many categories of vocal music that I enjoy.  My lessons have also extended into learning how to create a business and earn income as a singing performer, a subject that is sadly missing from university classes nearly everywhere.</p>
+                    <p>If you are looking for the tools to sing beautifully every time, do consider studying with David Troup.  I value everything I have learned from him, and you will not regret your decision to work with him!</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade" id="irisModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h2 class="modal-title" id="exampleModalLongTitle">Iris's Testimonial</h2>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+                </div>
+                <div class="modal-body">
+                    <p>David has been incredibly supportive of me throughout the years we have been together, and he has always made sure that I am comfortable.  Along the way, I realized that I had gained much more than a teacher --- I also gained a good friend.  He has made singing and the process of learning enjoyable through his incredible knowledge on the subject, his great sense of humor, and his kindness.</p>
+                    <p>One of the other things that has made my learning experience as wonderful as it has been is his vast amount of performing experience.  He is capable of teaching German Art Songs to Italian Opera Arias to Billy Joel and Beatles songs.  David has exposed me to such a diversity of vocal repertoire… repertoire that I never would have thought I would enjoy as much as I do now.</p>
+                    <p>I thank David Troup from the bottom of my heart for the life changing experiences I have had with him!</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="modal fade" id="samModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h2 class="modal-title" id="exampleModalLongTitle">Samuel's Testimonial</h2>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+                </div>
+                <div class="modal-body">
+                    <p>It seems like such a long time since we last talked, but time cannot dampen my wonderful memories of singing with you.  Since we said our goodbyes as I headed off to my freshman college year, I am delighted to tell you that I’m now a member of the Harvard Glee Club.  I so love making music with the Glee Club…. oh how I wish you could hear us!</p>
+                    <p>David, your lessons gave me my voice, but your warmth and charisma gifted me with the confidence to take the stage.  Thank you for getting my singing journey started.  This winter, I’ll be visiting China with some Glee Club friends, and we will be doing some a cappella singing every opportunity we get.</p>
+                    <p>I hope this holiday season brings you the purest warmth and joy --- the kind of “glow” you never fail to pass on to others with your hearty, infectious laughter.  Have a Merry Christmas and a Happy New Year!</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="modal fade" id="kathModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h2 class="modal-title" id="exampleModalLongTitle">Kathleen's Testimonial</h2>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+                </div>
+                <div class="modal-body">
+                    <p>In my first lesson with David Troup, I began making the sounds that I had only dreamed about.  I floated out of his studio that day as if I was walking on a cloud!</p>
+                    <p>David knows how to adapt his voice to many singing styles without compromising its quality.  Through his guidance, I have learned to sing different genres of music ranging from jazz to opera with equal beauty, control, power and excitement.  Moreover, I have gained a great amount of confidence in my solo performing, and I can now sing for an audience of total strangers and love every minute of it!</p>
+                    <p>In addition, David is a superb musician who seamlessly blends his knowledge of musicianship into each lesson.  My sight-reading skills and understanding of music theory have improved exponentially under his guidance.  Above all, his greatest gift as a teacher is his positive and encouraging nature with everyone he teaches. </p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+</body>
+
+</html>

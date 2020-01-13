@@ -1,0 +1,93 @@
+/*!
+ * Start Bootstrap - Heroic Features (https://startbootstrap.com/template-overviews/heroic-features)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-heroic-features/blob/master/LICENSE)
+ */
+
+body {
+  padding-top: 50px;
+    font-size: 1.2em;
+}
+
+a {
+    color: #0098ea;
+    font-weight: 700;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 80px;
+  }
+}
+
+.navbar {
+    background-color: #1f384a;
+}
+
+.modal-content {
+    padding:15px;
+}
+
+.card {
+  height: 100%;
+box-shadow: 0 2px 2px 0 rgba(0,0,0,0.20);
+}
+
+.btn {
+    font-size: 1em;
+}
+
+.btn-primary {
+    background-color: #0098ea;
+    border-color: #0098ea;
+}
+
+.cheight {
+    height: 100%;
+    padding: 0px;
+    margin: 0px;
+    position: relative;
+}
+
+.banner-text {
+    padding: 20px;
+    border-radius: 20px;
+    margin: 20px;
+}
+
+.row-normal {
+    padding: 30px;
+}
+
+.student-container {
+    margin-left:3%;
+    margin-right:3%;
+}
+
+.row-bg {
+    padding: 30px;
+    background-color: #f3f3f3;
+    border-radius: 20px;
+}
+
+.policy-card {
+    border-radius: 0px 20px 0px 20px;
+    margin-bottom: 20px;
+}
+
+.policy-card-content {
+    border-radius: 10px;
+    padding:20px;
+}
+
+.policy-img {
+    padding: 10%;
+    width:100%;
+    display: block;
+    margin-bottom: 8px;
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 700;
+}
