@@ -9,6 +9,10 @@ body {
     font-size: 1.2em;
 }
 
+.index-img {
+    display: none;
+}
+
 a {
     color: #0098ea;
     font-weight: 700;
@@ -16,7 +20,14 @@ a {
 
 @media (min-width: 992px) {
   body {
-    padding-top: 80px;
+    padding-top: 50px;
+  }
+}
+
+
+@media (max-width: 500px) {
+  .index-img {
+    display: block;
   }
 }
 
